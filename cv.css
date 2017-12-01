@@ -1,0 +1,159 @@
+body {
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 10px;
+	border: 0;
+}
+
+div#cv_body {
+	margin-bottom: 20px;
+	border-bottom-color: #e5e5e5;
+	border-bottom-style: inset;
+	border-bottom-width: 1px;
+	margin-left: 50px;
+}
+
+ul {
+	margin-top: 4px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-top: 0px;
+	margin-left: 0px;
+	list-style-position: inside;
+	font-size: 90%;
+}
+
+ul li {
+	list-style-position: inside;
+	margin-bottom: 6px;
+	list-style-type: none;
+}
+
+h1 {
+	margin-left: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 5px;
+	font-variant: small-caps;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 160%;
+	padding: 0;
+}
+
+h2 {
+	font-variant: normal;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120%;
+	margin-top: 0;
+}
+
+h3 {
+	font-size: 110%;
+	margin-top: 0;
+	margin-bottom: 0px;
+}
+
+a {
+	color: #369;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #963;
+}
+
+a.job {
+	font-size: 130%;
+}
+
+.headfoot {
+	margin: 0;
+	margin-bottom: 5px;
+	padding: 3px;
+	display: block;
+	background: #369;
+	color: #fff;
+	border-bottom: 3px #963 solid; 
+}
+
+#footer {
+	font-size: 120%;
+	text-align: center;
+}
+
+#footer a {
+	color: #fff;
+}
+
+location {
+	font-style: italic;
+	clear: both;
+	margin-bottom: 5px;
+}
+
+div.mainsection {
+	margin-left: 10px;
+}
+
+#container {
+	border: 1px;
+}
+
+.leftward {
+	float: left;
+	width: 45%;
+	margin-bottom: 20px;
+
+}
+
+.rightward {
+	float: right;
+	width: 45%;
+	margin-bottom: 20px;
+}
+
+.clearing {
+	height: 0;
+	clear: both;
+}
+
+span.job_title {
+	
+	font-weight: bold;
+	
+	clear: both;
+	
+}
+
+span.date_range {
+	display: block;
+	clear: left;
+}
+
+.level_two {
+	display: none;
+}
+
+div.title {
+	font-size: 28px;
+	text-align: center;
+}
+
+div.contact {
+	color: #313131;
+	text-align: center;
+}
+
+div.level_one {
+	margin-bottom: 4px;
+	padding: 4px;
+	background-color: #f8f8f8;
+}
